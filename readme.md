@@ -15,7 +15,7 @@ Program ini membandingkan performa penjumlahan array secara sequential dan paral
 - Benchmark waktu eksekusi
 - Perhitungan speedup
 
-## Cara Menjalankan
+## Cara Menjalankan Program
 
 Compile:
 
