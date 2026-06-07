@@ -8,7 +8,7 @@
 
 Program ini membandingkan performa penjumlahan array secara sequential dan parallel menggunakan OpenMP.
 
-## Fitur
+## Fitur Yang Ada
 
 - Sequential Processing
 - Parallel Processing dengan OpenMP
