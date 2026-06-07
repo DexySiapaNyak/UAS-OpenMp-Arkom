@@ -1,0 +1,7 @@
+Sequential Sum : 100000000
+Parallel Sum   : 100000000
+
+Sequential Time : 0.40 sec
+Parallel Time   : 0.12 sec
+
+Speedup : 3.33x
