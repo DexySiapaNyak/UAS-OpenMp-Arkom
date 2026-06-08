@@ -16,7 +16,6 @@ Program ini membandingkan performa penjumlahan array secara sequential dan paral
 - Perhitungan speedup
 
 ## Cara Menjalankan Program
-
 Compile:
 
 g++ main.cpp -fopenmp -O2 -o main
@@ -27,4 +26,4 @@ Run:
 
 ## Video
 
-Link YouTube:
+Link YouTube: (ADA DI LAPORAN)
